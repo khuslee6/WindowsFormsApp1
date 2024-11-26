@@ -84,6 +84,7 @@ namespace WindowsFormsApp1
                 }
             }
         }
+
         private bool HashPassword(string inputPassword, string storedHash)
         {
             string inputPasswordHash = HashPassword(inputPassword);
