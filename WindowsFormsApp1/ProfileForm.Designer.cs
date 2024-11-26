@@ -86,7 +86,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.txtPassword);
         }
-
+        
         #endregion
 
         // Declare UI components
