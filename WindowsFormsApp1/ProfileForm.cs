@@ -15,6 +15,8 @@ namespace WindowsFormsApp1
 
         public ProfileForm(int userId)
         {
+
+
             InitializeComponent();
             LoggedInUserId = userId;
             LoadProfileData();

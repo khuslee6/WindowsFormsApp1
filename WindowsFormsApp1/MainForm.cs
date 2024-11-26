@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
 
         public MainForm(int userId)
         {
+
             InitializeComponent();
             LoggedInUserId = userId;
             SetupMainForm();

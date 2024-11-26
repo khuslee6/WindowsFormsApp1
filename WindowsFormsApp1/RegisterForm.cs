@@ -9,6 +9,7 @@ namespace WindowsFormsApp1
         private string connectionString = "Data Source=LibraryManagementSystem.db;Version=3;";
 
         public RegisterForm()
+
         {
             InitializeComponent();
             btnRegister.Click += BtnRegister_Click; // Attach the event handler
